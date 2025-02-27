@@ -4,4 +4,4 @@
 * lemon
 * salt
 ## Instructions
-Mash it all together.
+Mash it all together (with care).
