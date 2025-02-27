@@ -4,4 +4,5 @@
 * lemon
 * salt
 ## Instructions
-Mash it all together (with care).
+* Put one avocado in a bowl.
+* Mash it all together (with care).
